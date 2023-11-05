@@ -2,6 +2,9 @@
 
 ## Install colmap and pycolmap
 
+I installed the following versions of colmap and pycolmap:
+- pycolmap: `0f74d3dcddbb134d058df6e8e484dc714998d7b0`
+- colmap: `0478d88a4eb695d7c89a8313a30f0061803522fa`
 
 
 ## Calculate the relative pose between two images:
